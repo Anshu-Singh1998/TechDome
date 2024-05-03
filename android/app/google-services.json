@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617842699236",
+    "project_id": "techdome-d9055",
+    "storage_bucket": "techdome-d9055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617842699236:android:065c6e5342a72efee975f1",
+        "android_client_info": {
+          "package_name": "com.techdome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcn3amiU-Hxl71jBegyUMYcwQcOYSumMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
